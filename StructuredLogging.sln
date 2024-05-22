@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredLoggingBasics", "StructuredLoggingBasics\StructuredLoggingBasics.csproj", "{518FC406-2DAF-46A7-99E4-A97C91935649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518FC406-2DAF-46A7-99E4-A97C91935649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518FC406-2DAF-46A7-99E4-A97C91935649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518FC406-2DAF-46A7-99E4-A97C91935649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518FC406-2DAF-46A7-99E4-A97C91935649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
